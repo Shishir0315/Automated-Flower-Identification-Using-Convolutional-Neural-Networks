@@ -1,7 +1,4 @@
-tensorflow
+tensorflow-cpu
 numpy
-matplotlib
-pandas
-scikit-learn
 pillow
 gradio
